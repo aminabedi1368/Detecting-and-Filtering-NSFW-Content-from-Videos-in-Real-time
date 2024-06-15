@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  app:
+    build: .
+    volumes:
+      - .:/app
+    ports:
+      - "1935:1935"  # Adjust according to your RTMP stream setup
+    restart: always

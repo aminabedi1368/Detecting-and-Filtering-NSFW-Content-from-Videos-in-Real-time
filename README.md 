@@ -1,0 +1,15 @@
+# RTMP Stream NSFW Filter
+
+## Description
+This project uses a CNN-LSTM model to filter NSFW content in a real-time RTMP stream.
+
+## Setup
+
+### Requirements
+- Docker
+- Docker Compose
+
+### Build and Run
+1. Build the Docker image:
+   ```sh
+   docker-compose build

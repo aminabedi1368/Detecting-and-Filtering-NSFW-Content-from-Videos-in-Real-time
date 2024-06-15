@@ -1,0 +1,11 @@
+tensorflow
+numpy
+fastapi
+uvicorn
+pydantic
+ffmpeg-python
+pillow
+scikit-learn
+jupyter
+opencv-python-headless
+
